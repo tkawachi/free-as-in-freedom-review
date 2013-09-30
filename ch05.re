@@ -131,15 +131,17 @@
 
 フォークのフィルクを聴くことに興味がありますか、とストールマンが私にたずねた。あると言うと、すぐにストールマンは意外に澄んだ声で歌い始めた。
 
->How much wood could a woodchuck chuck, ~
-If a woodchuck could chuck wood? ~
-How many poles could a polak lock, ~
-If a polak could lock poles? ~
-How many knees could a negro grow, ~
-If a negro could grow knees? ~
-The answer, my dear, ~
-is stick it in your ear. ~
+//quote{
+How much wood could a woodchuck chuck, @<br>{}
+If a woodchuck could chuck wood? @<br>{}
+How many poles could a polak lock, @<br>{}
+If a polak could lock poles? @<br>{}
+How many knees could a negro grow, @<br>{}
+If a negro could grow knees? @<br>{}
+The answer, my dear, @<br>{}
+is stick it in your ear. @<br>{}
 The answer is, stick it in your ear. . .
+//}
 
 ［; 音遊びのナンセンスソング（風に吹かれて）にどなたか日本語風の歌詞を。］
 

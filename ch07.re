@@ -180,7 +180,7 @@ GNU Emacs のリリースとともに、GNU プロジェクトはついに見せ
 
 http://catb.org/jargon/html/T/TWENEX.html
 
-8 http://www.as.cmu.edu/ geek/humor/See_Figure_1.txt. ~
+8 http://www.as.cmu.edu/ geek/humor/See_Figure_1.txt. @<br>{}
 
 9  リチャード・ストールマン（1986年）参照。
 

@@ -4,17 +4,17 @@ This is an unofficial translation of the GNU Free Documentation License into Jap
 
 以下は GNU 自由文書ライセンス（GFDL）の非公式な日本語訳です。これは自由ソフトウェア財団によって発表されたものではなく、GFDL を使った文書の配布条件を法的に有効な形で述べたものではありません。配布条件としては GFDL の英語版テキストで指定されているもののみが有効です。しかしながら、わたしたちはこの翻訳が日本語を使用する人びとが GFDL をより一層理解する助けとなることを望んでいます。
 
-Copyright (C) 2013 Yo Goto, Mitsuyosi Yuge~
-This work is licensed under a Creative Commons Attribution-NoDerivs 3.0 Unported License.~
+Copyright (C) 2013 Yo Goto, Mitsuyosi Yuge@<br>{}
+This work is licensed under a Creative Commons Attribution-NoDerivs 3.0 Unported License.@<br>{}
 http://creativecommons.org/licenses/by-nd/3.0/
 
 この非公式な日本語訳は クリエイティブ・コモンズ 表示 - 改変禁止 3.0 非移植のライセンスの下に提供されています。
 
 *GNU 自由文書ライセンス [#xbfb0b8f]
 
-1.3 版 2008 年 11 月 3 日~
-Copyright (C) 2000, 2001, 2002, 2007, 2008 自由ソフトウェア財団~
-http://fsf.org/~
+1.3 版 2008 年 11 月 3 日@<br>{}
+Copyright (C) 2000, 2001, 2002, 2007, 2008 自由ソフトウェア財団@<br>{}
+http://fsf.org/@<br>{}
 
 このライセンスを一字一句そのまま複製し頒布することをすべての人に許可しますが、変更は認めません。
 
@@ -191,9 +191,9 @@ MMC に再ライセンスの資格があれば、2009 年 8 月 1 日よりも�
 
 GNU 自由文書ライセンス 1.3 版の英語原文は次の通りです。
 
-Version 1.3, 3 November 2008~
-Copyright (C) 2000, 2001, 2002, 2007, 2008 Free Software Foundation, Inc.~
-http://fsf.org/~
+Version 1.3, 3 November 2008@<br>{}
+Copyright (C) 2000, 2001, 2002, 2007, 2008 Free Software Foundation, Inc.@<br>{}
+http://fsf.org/@<br>{}
 
 Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.
 
